@@ -1,61 +1,0 @@
-Script started on 2016年03月13日 (週日) 16時16分06秒
-]0;root@kali: ~/sandbox[01;31mroot@kali[00m:[01;34m~/sandbox[00m# ls
-lab1.script  README  [0m[01;34mstudent[0m  test.rb
-]0;root@kali: ~/sandbox[01;31mroot@kali[00m:[01;34m~/sandbox[00m# whoami; pe[Kwd
-root
-/root/sandbox
-]0;root@kali: ~/sandbox[01;31mroot@kali[00m:[01;34m~/sandbox[00m# git config -l
-user.name=glitter2626
-user.email=gercommand@gmail.com
-core.repositoryformatversion=0
-core.filemode=true
-core.bare=false
-core.logallrefupdates=true
-remote.origin.url=https://github.com/glitter2626/test.git
-remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
-]0;root@kali: ~/sandbox[01;31mroot@kali[00m:[01;34m~/sandbox[00m# ls
-lab1.script  README  [0m[01;34mstudent[0m  test.rb
-]0;root@kali: ~/sandbox[01;31mroot@kali[00m:[01;34m~/sandbox[00m#  gitclonehttps://github.com/<your githubaccount>/lab1.git[C[1@ [C[C[C[C[C https://github.com/<your githubaccount>/lab1.git [A]0;root@kali: ~/sandbox[01;31mroot@kali[00m:[01;34m~/sandbox[00m# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P/lab1.git
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.gitg/lab1.gitl/lab1.giti/lab1.gitt/lab1.gitt/lab1.gite/lab1.gitr/lab1.git2/lab1.git6/lab1.git2/lab1.git6/lab1.git[C[C[C[C[C[C[C[C[C
-Cloning into 'lab1'...
-Username for 'https://github.com': glitter2626
-Password for 'https://glitter2626@github.com': 
-remote: Repository not found.
-fatal: repository 'https://github.com/glitter2626/lab1.git/' not found
-]0;root@kali: ~/sandbox[01;31mroot@kali[00m:[01;34m~/sandbox[00m# lsgit config -l[2Pwhoami; pwdls[Kapt-get install fcitx-googlepinyin[K-googlepinyin[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kwhoami; pwdgit config -lls[K[Kls[K[Kgit clone https://github.com/glitter2626/lab1.git
-Cloning into 'lab1'...
-warning: You appear to have cloned an empty repository.
-Checking connectivity... done.
-]0;root@kali: ~/sandbox[01;31mroot@kali[00m:[01;34m~/sandbox[00m# pd2.imslab.org
-bash: pd2.imslab.org：命令找不到
-]0;root@kali: ~/sandbox[01;31mroot@kali[00m:[01;34m~/sandbox[00m# pd2.imslab.orggit clone https://github.com/glitter2626/lab1.git
-fatal: destination path 'lab1' already exists and is not an empty directory.
-]0;root@kali: ~/sandbox[01;31mroot@kali[00m:[01;34m~/sandbox[00m# ls
-[0m[01;34mlab1[0m  lab1.script  README  [01;34mstudent[0m  test.rb
-]0;root@kali: ~/sandbox[01;31mroot@kali[00m:[01;34m~/sandbox[00m# cd lab1
-]0;root@kali: ~/sandbox/lab1[01;31mroot@kali[00m:[01;34m~/sandbox/lab1[00m# cd lab1ls[Kgit clone https://github.com/glitter2626/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpd2.imslab.org[Kgit clone https://github.com/glitter2626/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kgit config -l[2Pwhoami; pwdls[Kapt-get install fcitx-googlepinyin[Kttf-arphic-uming scim-tables-zh im-swittch[A]0;root@kali: ~/sandbox/lab1[01;31mroot@kali[00m:[01;34m~/sandbox/lab1[00m# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cfcitx[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-googlepinyin[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kwhoami; pwd[K[K[K[K[K[K[K[K[K[K[Kscript lab1.script
-Script started, file is lab1.script
-]0;root@kali: ~/sandbox/lab1[01;31mroot@kali[00m:[01;34m~/sandbox/lab1[00m# ls
-lab1.script
-]0;root@kali: ~/sandbox/lab1[01;31mroot@kali[00m:[01;34m~/sandbox/lab1[00m# lsapt-get install fcitx-googlepinyin[Kttf-arphic-uming scim-tables-zh im-swittch[A]0;root@kali: ~/sandbox/lab1[01;31mroot@kali[00m:[01;34m~/sandbox/lab1[00m# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cfcitx[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-googlepinyin[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K[Klsapt-get install fcitx-googlepinyin[Kttf-arphic-uming scim-tables-zh im-swittch[A]0;root@kali: ~/sandbox/lab1[01;31mroot@kali[00m:[01;34m~/sandbox/lab1[00m# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Psoftware-center
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cupdate[K[5Pim-switchsudo apt-get install scim-config-socket[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kwhoami; pwd
-root
-/root/sandbox/lab1
-]0;root@kali: ~/sandbox/lab1[01;31mroot@kali[00m:[01;34m~/sandbox/lab1[00m# got[K[Kit config -l
-user.name=glitter2626
-user.email=gercommand@gmail.com
-core.repositoryformatversion=0
-core.filemode=true
-core.bare=false
-core.logallrefupdates=true
-remote.origin.url=https://github.com/glitter2626/lab1.git
-remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
-branch.master.remote=origin
-branch.master.merge=refs/heads/master
-]0;root@kali: ~/sandbox/lab1[01;31mroot@kali[00m:[01;34m~/sandbox/lab1[00m# exit
-Script done, file is lab1.script
-]0;root@kali: ~/sandbox/lab1[01;31mroot@kali[00m:[01;34m~/sandbox/lab1[00m# d[Kd[Kexit
-
-Script done on 2016年03月13日 (週日) 16時28分51秒
